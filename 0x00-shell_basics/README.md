@@ -1,1 +1,1 @@
-script to print current_working directory
+script to bring me home
